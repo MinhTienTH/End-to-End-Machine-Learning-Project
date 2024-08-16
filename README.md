@@ -1,4 +1,4 @@
-# 🚀 End to End Machine Learning Project 🚀
+# 🚀 End-to-End Machine Learning Project 🚀
 
 This repository contains an End-to-End Machine Learning project aimed at solving a specific problem using machine learning algorithms. The project walks through various stages including data exploration, feature engineering, model building, and deployment.
 
