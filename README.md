@@ -1,8 +1,8 @@
-# End to End Machine Learning Project
+# 🚀 End to End Machine Learning Project 🚀
 
 This repository contains an End-to-End Machine Learning project aimed at solving a specific problem using machine learning algorithms. The project walks through various stages including data exploration, feature engineering, model building, and deployment.
 
-## Project Structure
+## 📂 Project Structure
 
 ├── data/     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        # Directory to store the dataset<br><br>
 ├── notebooks/    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       # Jupyter notebooks for experimentation<br><br>
@@ -11,7 +11,7 @@ This repository contains an End-to-End Machine Learning project aimed at solving
 ├── requirements.txt  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # List of dependencies<br><br>
 └── README.md    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     # Project documentation
 
-## Requirements
+## 💻 Requirements
 
 To install the necessary dependencies, you can use the requirements.txt file. Run the following command in your terminal:
 
